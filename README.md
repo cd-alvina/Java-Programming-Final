@@ -7,8 +7,8 @@
 
 _(Choose all correct answers)_
 
-1. Reference obj can be reassigned to any other type of object.
-2. A new instance of class Object is created. 
+1. Reference obj can be reassigned to any other type of object. *
+2. A new instance of class Object is created. *
 3. Memory is allocated for a new object, if available.
 4. This Object instance will not be created because you never defined class Object.
 
@@ -25,17 +25,17 @@ System.out.println(1 + 2 + "java" + 3);
 1. The code will compile and print "java3"
 2. The code will compile and print "6java"
 3. The code does not compile.
-4. The code will compile and print "3java3"
+4. The code will compile and print "3java3" *
 5. The code will compile and print "12java3"
 
 **3. Which two statements best describe data encapsulation? (Choose Two)**
 
 _(Choose all correct answers)_
 
-1. The access modifier for methods is protected.
+1. The access modifier for methods is protected. *
 2. Member data can be modified directly.
 3. Methods provide for access and modification of data.
-4. The access modifier to member data is private.
+4. The access modifier to member data is private. *
 
 **4. What is the output from the following code snippet?**
 
@@ -52,7 +52,7 @@ _(Choose all correct answers)_
  ```
 
 
-1. NullPointerException
+1. NullPointerException *
 2. Exception
 3. Compile fails
 4. Java
@@ -70,31 +70,31 @@ public class Test (
 }
 ```
 1. include java.io.*;
-2. No statement is needed.
+2. No statement is needed. *
 3. import java.io.OutputStreamWriter
 4. import java.io.PrintWriter;
 5. import java.io.*; 
 
 **6. Virtual method invocation occurs:**
 
-1. When the method of a subclass is used on a superclass reference.
+1. When the method of a subclass is used on a superclass reference.*
 2. When the method of a subclass is used on a subclass reference.
 3. Not part of polymorphism.
 4. When the method of a superclass is used on a superclass reference.
 
 **7. The instanceof operator enables to discover the type of object it was invoked upon. True or false**
 
-* True
+* True *
 * False
 
 **8. Reading great code is just as important for a programmer as reading great books is for a writer. True or false?**
 
-* True
+* True *
 * False
 
  **9.The main purpose of unit testing is to verify that an individual unit (a class, in Java) is working correctly before it is combined with other components in the system. True or false?**
 
-* True
+* True *
 * False
 
 **10. Which two statements are equivalent to line 2?**
@@ -107,15 +107,15 @@ _(Choose Two)_
 ```
 
 1. protected int accountID=100;
-2. static int accountID=100;
-3. Final int accountID=100;
+2. static int accountID=100; *
+3. Final int accountID=100; *
 4. Abstract int accountID=100;
 5. private int accountID=100;
 
 # Section 2
 **11. Modeling business problems requires understanding the interaction between interfaces, abstract and concrete classes, subclasses, and enum classes.**
 
-* True
+* True *
 * False
 
 # Section 3
@@ -124,7 +124,7 @@ _(Choose Two)_
 True or False?**
 
 * True
-* False
+* False *
 
 **13. The following code will compile.**
 ```
@@ -139,12 +139,12 @@ class Test{
 }
 ```
 
-* True
+* True *
 * False
 
 **14. A sequential search is an iteration through the array that stops at the index where the desired element is found. True or false?**
 
-* True
+* True *
 * False
 
 **15. Which of the following is the correct lexicographical order for the conents of the following int array?**
@@ -156,7 +156,7 @@ class Test{
 2. {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 3. {71, 1, 3, 28,29, 50, 22, 83, 1, 17}
 4. {83, 71, 50, 29, 28, 22, 17, 3, 1, 1}
-5. {1, 1, 17, 22, 28, 29, 3, 50, 71, 83}
+5. {1, 1, 17, 22, 28, 29, 3, 50, 71, 83} *
 6. {1, 1, 3, 17, 22, 28, 29, 50, 71, 83}
 
 **16. Which searching algorithm involves using a low, middle, and high index value to find the location of a value in a sorted set of data (if it exists)?**
@@ -165,7 +165,7 @@ class Test{
 2. Merge Sort
 3. Selection Sort
 4. Binary Search
-5. All of the above
+5. All of the above *
 6. None of the above.
 
 **17. Which of these could be a set? Why?**
@@ -173,20 +173,20 @@ class Test{
 
 1. {1, 1, 2, 22, 305, 26} because a set may contain duplicates and all its elements are of the same type.
 2. {"Apple", 1, "Carrot", 2} because it records the index of the elements with following integers.
-3. {1, 2, 5, 178, 259} because it contains no duplicates and all its elements are of the same type.
+3. {1, 2, 5, 178, 259} because it contains no duplicates and all its elements are of the same type. *
 4. All of the above are sets because they are collections that can be made to fit any of the choices.
 
 **18. Which of the following correctly adds "Cabbage" to the ArrayList vegetables?**
 
 1. vegetables.get("Cabbage");
-2. vegetables += "Cabbage";
+2. vegetables += "Cabbage"; 
 3. vegetables[0] = "Cabbage";
-4. vegetables.add("Cabbage"); 
+4. vegetables.add("Cabbage"); *
 
 **19. What is a set?**
 
 1. Something that enables you to create a generic class without specifying a type between angle brackets <>.
-2. A collection of elements that does not contain duplicates.
+2. A collection of elements that does not contain duplicates. *
 3. A collection of elements that contains duplicates.
 4. A keyword in Java that initializes an ArrayList.
 
@@ -194,12 +194,12 @@ class Test{
 True or false?**
 
 * True 
-* False
+* False *
 
 **21. A LinkedList is a type of Stack.
 True or False?**
 
-* True
+* True *
 * False
 
 **22. Which of the following describes a deque.**
@@ -207,7 +207,7 @@ True or False?**
 1. It is pronounced "deck" for short.
 2. It implements a stack.
 3. Allows for insertion or deletion of elements from the first element added or the last one.
-4. All of the above.
+4. All of the above. *
 
 # Section 4
 
@@ -215,7 +215,7 @@ True or False?**
 True or false?**
 
 * True
-* False
+* False *
 
 **24. Your teacher asks you to write a segment of code that returns true if String str contains zero or one character(s) and false otherwise. Which of the following code segments completes this task?(Choose Two)**
 
@@ -223,8 +223,8 @@ _(Choose all correct answers)_
 
 1. if( str.length() == 0 || str.length() == 1)
 { return true;}
-return false;
-2. return str.matches(".?");
+return false; *
+2. return str.matches(".?"); *
 3. return str.contains(".");
 4. return str.matches("[a-z]*");
 
@@ -232,7 +232,7 @@ return false;
 
 1. charAt(int index)
 2. length()
-3. delete(int start, int end)
+3. delete(int start, int end) *
 4. indexOf(String str)
 
 **26. Which of the following methods are StringBuilder methods?**
@@ -241,30 +241,30 @@ return false;
 2. delete
 3. insert
 4. replace
-5. All of the above.
+5. All of the above. *
 6. None of the above.
 
 **27. A non-linear recursive method is less expensive than a linear recursive method.
 True or false?**
 
 * True
-* False
+* False *
 
 **28. Which case does a recursive method call last?**
 
 1. Recursive Case
 2. Convergence Case
 3. Basic Case
-4. Base Case
+4. Base Case *
 5. None of the above
 
 # Section 5
 
 **29. Which of the following is an attribute of a three tier architecture application?**
 
-1. an application of that type has a client and server only
+1. an application of that type has a client and server only 
 2. a complex application that includes a client, a server and database
-3. an application of that type runs on a single computer
+3. an application of that type runs on a single computer *
 4. None of the above
 5. All of the above
 
@@ -273,18 +273,18 @@ True or false?**
 1. jar files
 2. JNLP files
 3. html files
-4. .java files
+4. .java files *
 5. None of the above
 
 **31. The java.nio.file package has improved exception handling.
 True or false?**
- * True
+ * True *
 * False
 
 **32. The java.io package has problems with no support for symbolic links.
 True or false?**
 
-* True
+* True *
 * False
 
 **33. The BufferedOutputStream is a direct subclass of what other class?**
@@ -292,7 +292,7 @@ True or false?**
 1. PrintStream
 2. ObjectOutputStream
 3. OutputStream
-4. FilterOutputStream
+4. FilterOutputStream *
 5. DigestOutputStream
 
 **34. The BufferedInputStream is a direct subclass of what other class?**
@@ -300,7 +300,7 @@ True or false?**
 1. PipedInputStream
 2. InputStream
 3. InputStream
-4. FilterInputStream
+4. FilterInputStream *
 5. FileInputStream
 
 # Section 6
@@ -316,7 +316,7 @@ rset.next();
 System.out.println(rset.getString(1));
 ```
 1. A
-2. B
+2. B *
 3. C
 4. The code does not compile.
 5. A SQLException is thrown.
@@ -325,7 +325,7 @@ System.out.println(rset.getString(1));
 
 1. Statement Interface
 2. PreparedStatement Interface
-3. DatabaseMetaData Interface
+3. DatabaseMetaData Interface *
 4. CallableStatement Interface
 
 **37. Given the following code, assume there are rows of data in the table EMP. What is the result?**
@@ -349,7 +349,7 @@ System.out.println(rset.getString(1));
 1. Type 1 driver
 2. Type 2 driver
 3. Type 3 driver
-4. Type 4 driver 
+4. Type 4 driver *
 
 # Section 7
 
@@ -357,7 +357,7 @@ System.out.println(rset.getString(1));
 
 1. Survivor Space 0
 2. Survivor Space 1
-3. Eden
+3. Eden *
 4. Tenured
 
 **40. Given the following output from the Minor GC:**
@@ -367,13 +367,13 @@ System.out.println(rset.getString(1));
 _Which of the following statements is TRUE?_
 
 1. Entire heap is 9350k.
-2. Young Generation usage decreased by 3968k.
-3. The pause time spent in Young Generation is 0.0431096
+2. Young Generation usage decreased by 3968k. *
+3. The pause time spent in Young Generation is 0.0431096 *
 4. The size of Eden space is 4032k.
 
 **41. During runtime, the Java platform loads classes dynamically as required.**
 
-* True
+* True *
 * False
 
 **42. Which of the following statements is NOT TRUE about the JVM?**
@@ -381,30 +381,30 @@ _Which of the following statements is TRUE?_
 1. The JVM is a virtual Machine that acts as an intermediary layer between the Java Application and the Native Operating System.
 2. The JVM reads byte code from the class file, and generates machine code.
 3. The JVM does not understand the Java language specification.
-4. The JVM reads Java source code, and then translates it into byte code.
+4. The JVM reads Java source code, and then translates it into byte code. *
 
 # Section 8
 
 **43. Like in the Java source code file, one Java class file can contain multiple class definitions.**
 
 * True
-* False
+* False *
 
 **44. The class file contains the definition it inherits from the superclass.**
 
 * True
-* False
+* False *
 
 **45. Which of the following commands allows a developer to see the effects of a running java application on memory and CPU?**
 
 1. javac
-2. jvisualvm
+2. jvisualvm *
 3. java
 4. javap
 
 **46. Which of the following commands can be used to monitor the Java Virtual Machine statistics?**
 
-1. jstat
+1. jstat *
 2. javap
 3. javac
 4. jmap
