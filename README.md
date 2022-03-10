@@ -415,24 +415,24 @@ _Which of the following statements is TRUE?_
 
 1. custom class loader
 2. application class loader
-3. bootstrap class loader
+3. bootstrap class loader *
 4. extension class loader
 
 **48. The Java developer can define a number of additional or custom classloaders.**
 
-* True
+* True *
 * False
 
 **49. To inspect bytecode, which option is used with the javap command to disassemble the class file?**
 
 1. -a
 2. -b
-3. -c
+3. -c *
 4. -d
 
 **50. Choose which opcode is used to push an int constant 5 onto the operand stack.**
 
-1. iconst_5
+1. iconst_5 *
 2. idc5
 3. iload_5
 4. iaload_5
