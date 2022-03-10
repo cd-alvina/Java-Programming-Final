@@ -368,7 +368,7 @@ _Which of the following statements is TRUE?_
 
 1. Entire heap is 9350k.
 2. Young Generation usage decreased by 3968k. *
-3. The pause time spent in Young Generation is 0.0431096 *
+3. The pause time spent in Young Generation is 0.0431096 
 4. The size of Eden space is 4032k.
 
 **41. During runtime, the Java platform loads classes dynamically as required.**
